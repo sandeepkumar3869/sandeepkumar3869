@@ -1,3 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pawarmukesh&label=Profile%20views&color=0e75b6&style=flat" alt="pawarmukesh" /> </p>
+
+[![](https://visitcount.itsvg.in/api?id=sandeepkumar3869&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🌱 I’m currently learning Python, Machine learning, Java script<br><br>Calculator: Simplifying Mathematical Operations with Code calculator<br><br>👨‍💻 All of my projects are available at https://www.linkedin.com/in/sandeep-kumar-2a4246238/<br><br>📝 I regularly write articles on https://captainsandeepkumar.blogspot.com/<br><br>📫 How to reach me sksandy3869@gmail.com<br><br>⚡ Fun fact Did you know that there are more possible iterations of a game of chess than there are atoms in the observable universe?
 
@@ -19,6 +23,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sandeepkumar3869&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
