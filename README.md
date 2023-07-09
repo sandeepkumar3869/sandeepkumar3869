@@ -1,6 +1,5 @@
-<p align="left"> <img src=(https://github.com/sandeepkumar3869/sandeepkumar3869/blob/main/1.png" alt="sandeepkumar3869" /> </p>
+<p align="left"> <img src="(https://github.com/sandeepkumar3869/sandeepkumar3869/blob/main/1.png" alt="sandeepkumar3869" /> </p>
 
-[![MasterHead](https://github.com/sandeepkumar3869/sandeepkumar3869/blob/main/1.png)
 <h1 align="center">Hi 👋, I'm SANDEEP KUMAR</h1>
 <h3 align="center">Building the Future, One Line of Code at a Time</h3>
 https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif
