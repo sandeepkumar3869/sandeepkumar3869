@@ -50,6 +50,12 @@ Did you know there are more possible iterations of a game of chess than there ar
 
 ---
 
+### 📈 LeetCode Progress:
+![LeetCode Stats](https://leetcode-stats-card.vercel.app/?username=SKSANDY2396&theme=dark)
+
+---
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sandeepkumar3869&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sandeepkumar3869&theme=dark&hide_border=false)  
