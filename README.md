@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 👨‍🎓 **Education:**  
-I am pursuing an MSc in Data Science at Christ (Deemed to be University), Pune Lavasa Campus.
+I completed my MSc in Data Science at Christ (Deemed to be University), Pune Lavasa Campus in 2025.
 
 🌱 **Expertise:**  
 I specialize in data analytics, machine learning, and statistical modeling.  
