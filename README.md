@@ -2,7 +2,7 @@
 
 ![logo](https://github.com/sandeepkumar3869/sandeepkumar3869/blob/main/1.png)
 
-<h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40px"/> I'm Sandeep Kumar</h1>
+<h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" style="height:30px; vertical-align:middle;"/> I'm Sandeep Kumar</h1>
 
 # 💫 About Me:
 👨‍🎓 **Education:**  
