@@ -19,11 +19,11 @@ I specialize in data analytics, machine learning, and statistical modeling.
 - Presented a paper on empowering women using geospatial technology at the **NGP-DST Geo Innovation Challenge**.
 
 📊 **Tools and Technologies:**  
-- Proficient in **Python**, **R**, **SQL**, **Tableau**, and **TensorFlow**.  
+- Proficient in **Python**, **R**, **SQL**, **PowerBi**, and **TensorFlow**.  
 - Experience with Docker, FastAPI, and Django for deployment and web development.
 
 📫 **How to reach me:**  
-- Email: sandeep.kumar@science.christuniversity.in  
+- Email: sksandy3869@gmail.com  
 - Blog: [captainsandeepkumar.blogspot.com](https://captainsandeepkumar.blogspot.com)  
 - LinkedIn: [Sandeep Kumar](https://www.linkedin.com/in/sandeep-kumar-2a4246238/)
 
